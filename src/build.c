@@ -3,7 +3,6 @@
 #include<time.h>
 
 #include "consts.h"
-#include "structs.h"
 
 #include "automaton.h"
 
